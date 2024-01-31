@@ -1,0 +1,12 @@
+{
+  "proxy": "spnz42b9uo:jwb1Sz3fU8xNYfx7re@gate.smartproxy.com:10000",
+  "db": "mongodb://sache:SacheDev123@18.142.178.253:45052/",
+  "mode": "2",
+  "user": {
+    "1": "",
+    "2": "",
+    "3": "melrosemichaels"
+  },
+  "skip_users": [],
+  "checkpoint": "652d67b046e5418fac34b13a"
+}
